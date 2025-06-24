@@ -35,6 +35,12 @@ Using Bayesian Networks, the model computes the probability of heart disease and
 4. **Visualization**
    - Visualized the Bayesian Network structure using `networkx`.
    - Displayed inference results as bar plots using `seaborn` and `matplotlib`.
+  
+![image](https://github.com/user-attachments/assets/4c82955d-9f46-463f-9cb9-719c492294ff)
+
+![image](https://github.com/user-attachments/assets/094f736f-e0a6-41ba-850d-f68e2bece2fa)
+
+
 
 ---
 
@@ -95,7 +101,3 @@ Open for educational and demonstration purposes.
 ## 🙌 Acknowledgements
 
 This project was part of a Data Science challenge at **COSC Hackweek**.
-
-```
-
----
